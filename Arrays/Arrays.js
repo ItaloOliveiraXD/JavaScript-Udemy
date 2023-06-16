@@ -27,6 +27,8 @@ delete aprovados[1]; // Deletar um dado do array aparti do seu índice e deixa s
 // aparti do terceiro você informa o que vai ser adicionado no array.
 aprovados.splice(1, 1, 'Sophia', 'Yuri');
 
+console.log(valores.pop()); // remove o ultimo elemento do array.
+console.log(valores.shift()); // remove o primeiro elemento do array.
 aprovados.sort(); // Organiza o array em ordem alfabetica.
 
 console.log(aprovados);
