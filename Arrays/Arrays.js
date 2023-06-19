@@ -21,7 +21,7 @@ console.log('------------------------------------------------------------------'
 
 aprovados.length; // Saber o tamanho do array
 delete aprovados[1]; // Deletar um dado do array aparti do seu índice e deixa seu valor undefined.
-// Manipula o array 
+// Manipula o array
 // primeiro param: indice que vai iniciar a manipulção.
 // segundo param: quantos itens vai deletar do array aparti do indice informado.
 // aparti do terceiro você informa o que vai ser adicionado no array.
